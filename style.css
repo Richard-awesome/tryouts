@@ -62,8 +62,8 @@ input[type="submit"]{
 
 nav > a {
   font-size: 20px;
-  margin: 20px;
-  padding: 30px;
+  margin: 10px;
+  padding: 10px;
   text-align: left;
   color: rgb(146, 140, 140);
 }
