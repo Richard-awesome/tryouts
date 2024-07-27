@@ -1,0 +1,110 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+font-size: ;
+}
+
+
+.h{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  
+}
+
+nav{
+  padding-top: 10px;
+
+  border: none;
+  border-bottom: 3px solid grey;
+  border-width: 100%;
+}
+
+.Lorem{
+  word-wrap: break-word;
+  margin: 15px;
+  text-align: left;
+  
+}
+
+.o{
+  text-align: right;
+}
+
+.serve{
+  text-align: center;
+
+}
+fieldset{
+  margin: 20px;
+}
+
+
+#Form{
+  border: solid;
+}
+
+label{
+  display: block;
+  padding: 10px;
+}
+
+input[type="submit"]{
+  text-align: center;
+  padding: 30px;
+  margin: 40px;
+  border: solid 0.3px;
+  border-radius: 0.5rem;
+  background: linear-gradient(180deg, #000000,#ffffff);
+}
+
+nav > a {
+  font-size: 20px;
+  margin: 30px;
+  padding: 30px;
+  text-align: left;
+  color: rgb(146, 140, 140);
+}
+nav > a{
+  transition-property: color;
+  transition-delay: 0.2s;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+}
+
+nav > a:hover{
+ 
+  padding: 20px;
+  background-color: grey;
+  color: rgb(0, 0, 0);
+  opacity: 0.6;
+}
+.s{
+  padding-top: 40px;
+  
+}
+
+
+
+.div{
+  text-orientation: ;
+  text-align: center;
+  padding: 40px;
+  background: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9)), url('work.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 400px;
+  box-shadow: 0 0 0.5px 0 #000000;
+}
+.button{
+  border-radius: 0.5rem;
+  border: none;
+  font-weight: bold;
+
+  margin: 10px;
+  padding: 20px;
+}
